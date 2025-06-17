@@ -4,10 +4,10 @@ A full-stack web app for managing product reviews — users can add, edit, and d
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
-- **Frontend**: React, Bootstrap
-- **Backend**: Node.js, Express
+- **Frontend**: React, Bootstrap  
+- **Backend**: Node.js, Express  
 - **Database**: MySQL
 
 <p align="center">
@@ -16,16 +16,16 @@ A full-stack web app for managing product reviews — users can add, edit, and d
 
 ---
 
-## ✨ Features
+##  Features
 
-- ✅ View all products and their average ratings.
-- 📝 Submit, edit, or delete reviews using email.
-- 📊 Real-time product summary with average rating and recent reviews.
-- 🔄 Instant frontend updates on review submission.
+-  View all products and their average ratings.
+-  Submit, edit, or delete reviews using email.
+-  product summary with average rating and recent reviews.
+-  Instant frontend updates on review submission.
 
 ---
 
-## 🗃️ Database Setup
+##  Database Setup
 
 ```sql
 CREATE DATABASE IF NOT EXISTS ratings_db;
@@ -60,7 +60,7 @@ INSERT INTO products (name) VALUES
 
 ---
 
-## 🖥️ Backend
+##  Backend Setup
 
 ### `db.js`
 
@@ -176,7 +176,7 @@ app.listen(5000, () => {
 
 ---
 
-## 🎨 Frontend (`App.js`)
+##  Frontend (`App.js`)
 
 ```js
 import React, { useEffect, useState } from 'react';
@@ -263,16 +263,16 @@ export default App;
 
 ---
 
-## 🚀 Run the Project
+##  How to Run the Project
 
-### ▶️ Backend
+###  Backend
 
 ```bash
 npm install
 node server.js
 ```
 
-### ▶️ Frontend
+###  Frontend
 
 ```bash
 cd frontend
@@ -282,14 +282,14 @@ npm start
 
 ---
 
----
+##  Screenshot
 
-## 📸 Screenshot
-
-### 🏠 Home Page – Product Summary
+###  Home Page – Product Summary
 ![Home Screenshot](screenshots/home.png)
 
+---
 
-## 🙋‍♀️ Author
+##  Author
 
-Made with 💙 by **Harshita Dutta**
+Made  by **Harshita Dutta**  
+GitHub: [harshita-d12](https://github.com/harshita-d12)
