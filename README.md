@@ -166,10 +166,9 @@ npm start
 
 ## 📸 Screenshots
 
-> Add the screenshots below using this format:
 
 ```
-![Screenshot 1](screenshots/home.png)
+![Homepage](./screenshots/home.png)
 ```
 ---
 
