@@ -167,10 +167,8 @@ npm start
 ## 📸 Screenshots
 
 
-```
 ![Homepage](./screenshots/home.png)
-```
----
+
 
 ## 🙌 Author
 
