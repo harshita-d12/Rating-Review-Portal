@@ -288,6 +288,12 @@ npm start
 ![Home Screenshot](screenshots/home.png)
 
 ---
+## 📽️ Demo Video
+
+[![Watch Demo](https://img.youtube.com/vi/hTqeGgN4xiM/0.jpg)](https://youtu.be/hTqeGgN4xiM)
+
+🎥 **[Click here to watch the full project demo](https://youtu.be/hTqeGgN4xiM)**
+
 
 ##  Author
 
